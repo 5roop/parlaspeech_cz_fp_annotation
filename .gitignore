@@ -1,3 +1,8 @@
+audio/
+ParlaSpeech-CZ*
+1_utterances.jsonl
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
